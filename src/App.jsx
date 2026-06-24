@@ -167,4 +167,4 @@ export default function App() {
     message += `*Guests:* ${bookingDetails.guests} Person(s)%0A`;
     message += `*Date:* ${bookingDetails.date}%0A`;
     message += `*Preferred Time:* ${bookingDetails.time || 'Not Specified'}%0A%0A`;
-    message += `Please confirm table
+    message += `Please confirm table';
